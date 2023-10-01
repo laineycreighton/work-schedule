@@ -1,6 +1,12 @@
 # Work Schedule
 
-<br>
+## Table of Contents
+- [Description](#description)
+- [Technology Used](#technology-used)
+- [Deployment](#deployment)
+- [Author](#author)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Description
 
@@ -12,12 +18,12 @@ This project was created so that a user could keep track of their tasks on an ho
 
 ## Technology Used
 
-- HTML - used to edit the existing elements.
-- CSS - used to edit the styling for the html elements.
-- Javascript - used to add function the application.
-- Git - used to track edits made to the source code.
-- GitHub - used to host and deploy the repository.
+**Front End**
+<br>
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp; 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;&nbsp;&nbsp;&nbsp; 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
 
 | Technology Used         | Resource URL           | 
@@ -36,22 +42,26 @@ This project was created so that a user could keep track of their tasks on an ho
 
 Website URL: [Work Schedule](https://laineycreighton.github.io/work-schedule/)
 
-Navigating to the website URL should present you with the following:
-
 ![alt text](./assets/images/work-schedule-screenshot.jpg)
   
   <br>
 
-## Author Info
+## Author
 
 ### Lainey Creighton
 
-*Currently a student in the UC Berkley Full Stack Flex Bootcamp. Contact Below:* 
+**Contact me using the information below:**
 
-* [Portfolio](https://laineycreighton.github.io/portfolio/)
-* [LinkedIn](https://www.linkedin.com/in/lainey-creighton/)
-* [Github](https://github.com/laineycreighton)
+[![Email](./assets/images/email.svg)](mailto:dev.lainey@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; 
+[![LinkedIn](./assets/images/linkedin.svg)](https://www.linkedin.com/in/lainey-creighton/) &nbsp;&nbsp;&nbsp;&nbsp; 
+[![Portfolio](./assets/images/globe.svg)](https://laineycreighton.com/) &nbsp;&nbsp;&nbsp;&nbsp; 
+[![GitHub](./assets/images/github.svg)](https://github.com/laineycreighton)
 
+<br>
+
+## Contributing
+
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 <br>
 
 ## License
